@@ -1,4 +1,4 @@
-class HelloWorldi {
+class HelloWorld {
 
     public HelloWorld() {}
 
